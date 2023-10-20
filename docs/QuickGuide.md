@@ -41,5 +41,9 @@ Finally, you can move your changes to the remote repository by typing:
 git push
 ```
 
+## Using Conda
+
+To make all the necessary libraries available, a convenient way is to use conda. A more detailed explanation is given [here](https://leitgebc.github.io/StatisticsAndDataAnalysis2023/CondaEnvironment.html). You'll have to create an environment equipped with Python and the needed packages. Every time you'd like to use the Jupyter notebooks, you need to activate the environment and start jupyter-lab or jupyter-notebook in your command line.
+
 
 
