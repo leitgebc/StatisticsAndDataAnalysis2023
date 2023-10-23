@@ -4,7 +4,7 @@ This repository contains the programming exercises for the statistics and data a
 
 ## Quick Guide
 
-In the repository you will find a more detailed introduction on the technicalities of python, jupyter notebooks and git in the folder ''docs''. In the following, a quick installation guide of this repo and submission of exercises will be given.
+In the repository you will find a more detailed introduction on the technicalities of python, jupyter notebooks and git in the folder ''docs'' and in the introductory jupyter notebooks in the folder ''exercises''. The documentation of the docs folder can also be viewed on the GitHub [pages](https://leitgebc.github.io/StatisticsAndDataAnalysis2023/) In the following, a quick installation guide of this repo and submission of exercises will be given.
 
 ### Cloning the Repository
 
