@@ -1,4 +1,4 @@
-# Statistics and Data Analyis
+# Statistics and Data Analysis
 
 This repository contains the programming exercises for the statistics and data analysis lecture at Humboldt University Berlin for the winter term 2023/2024.
 
