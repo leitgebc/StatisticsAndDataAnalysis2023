@@ -1,4 +1,4 @@
-# Wokring Environment
+# Working Environment
 
 For some of the exercises you'll need to have Python installed on your computer as well as some specific libraries. Of course you can install all that directly but if you want to be on the safe side, you can also setup a working environment first and install the packages there. Those packages will then only exist inside the environment and won't interfere with anything else you might have installed on your machine. [Conda](https://docs.conda.io/projects/conda/en/latest/index.html) is a very userfriendly option for that. It provides an environment and package management service for many programming languages (Python, C++, Java...) and can  run on Windows, Mac and Linux machines. For our purposes the light weight installer version called ''Miniconda'' will do.
 
