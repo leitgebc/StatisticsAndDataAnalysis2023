@@ -3,3 +3,4 @@ exercises/.ipynb_checkpoints/
 exercises/.ipynb_checkpoints/*
 exercises/*.png
 solutions/
+*.DS_STORE
