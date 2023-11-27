@@ -2,5 +2,6 @@
 exercises/.ipynb_checkpoints/
 exercises/.ipynb_checkpoints/*
 exercises/*.png
-solutions/
+solutions/OldExerciseSheet6.ipynb
+solutions/ExerciseSheet6.ipynb
 *.DS_STORE
